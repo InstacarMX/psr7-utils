@@ -20,6 +20,7 @@
     "phpstan/phpstan": "^1.4",
     "phpunit/phpunit": "^9.5",
     "roave/security-advisories": "dev-latest",
+    "symfony/property-access": "^6.2",
     "symfony/serializer": "^6.1"
   },
   "autoload": {
