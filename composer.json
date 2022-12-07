@@ -1,9 +1,9 @@
 {
   "name": "instacar/psr7-utils",
   "type": "library",
-  "description": "A reusable utilities for PSR-7 and PSR-11",
+  "description": "A reusable utilities for PSR-7",
   "keywords": [
-    "psr-7", "psr-11", "utils"
+    "psr-7", "utils"
   ],
   "license": "LGPL-3.0-only",
   "authors": [
